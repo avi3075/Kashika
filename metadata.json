@@ -1,0 +1,5 @@
+{
+  "name": "PotFix 3D",
+  "description": "Scan, view, and AI-repair 3D clay pots using Gemini-powered analysis and mesh processing algorithms.",
+  "requestFramePermissions": []
+}
